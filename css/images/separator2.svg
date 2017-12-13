@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3240px" height="1228px" viewBox="0 0 3240 1228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>separator2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.4300064%" id="linearGradient-1">
+            <stop stop-color="#DBE3F0" offset="0%"></stop>
+            <stop stop-color="#E6EAF1" stop-opacity="0.117668705" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.301970109">
+        <g id="separator2" fill="url(#linearGradient-1)">
+            <polygon id="Rectangle-7" points="0 32.96875 3240 329.90625 3240 1211.89062 0 907.265625"></polygon>
+        </g>
+    </g>
+</svg>
