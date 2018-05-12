@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
-    <img src="art/logo.png" alt="Project Name" width=150 height=150>
+    <img src="art/logo.png" alt="Project Name" width=250 height=150>
   </a>
   <h3 align="center">Project Heading</h3>
 
