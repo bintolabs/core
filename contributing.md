@@ -1,7 +1,6 @@
-Contributing to {{Put project name here}}
+Contributing to this project
 ===
-We'd love to accept your patches!
-To contribute to {{Put project name here}} simply open a pull request against the [develop branch](https://github.com/yourProfile/YourProject/tree/develop)
+To contribute to core simply open a pull request against the [develop branch](https://github.com/bintolabs/core/tree/develop)
 
 Ensure you have a develop branch before you place the link.
 
@@ -17,7 +16,7 @@ To ensure you that your pull request is accepted:
 
 ### NOTE
 ```
-*Add BELOW IF YOU HAD STRTED BY WRITING TESTS. otherwise, ignore*
+*Add BELOW IF YOU HAD STARTED BY WRITING TESTS. otherwise, ignore*
 * Write tests:
   * new features should include tests
   * changes to existing code should be reflected in the tests
